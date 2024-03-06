@@ -10,7 +10,7 @@ The Card class represents a single playing card. It contains fields for rank and
 The Deck class represents a deck of cards. It contains a vector of Card objects and provides methods for creating a standard 52-card deck, shuffling the deck, drawing cards, printing the deck, comparing cards, finding cards by rank and suit, dealing hands of cards, emptying the deck, and sorting the deck.
 
 **Menu Options**
-(1)Display the deck of cards
+. Display the deck of cards
 (2)Shuffle the deck of cards
 (3)Draw a card from the deck
 (4)Empty the deck
